@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+}
+
+#input-form {
+    margin-bottom: 1em;
+}
+
+#input-text {
+    width: 60%;
+    height: 5em;
+    margin-right: 1em;
+}
+
+#submit-button {
+    font-size: 1.2em;
+    padding: 0.5em;
+}
+
